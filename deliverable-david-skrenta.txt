@@ -1,0 +1,3 @@
+https://github.com/dskrenta/CU-CSCI3308-CIPractice
+
+https://travis-ci.org/dskrenta/CU-CSCI3308-CIPractice
