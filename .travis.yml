@@ -1,8 +1,8 @@
 language: c
 
 install:
-  sudo apt-get install check
-  make
+  - sudo apt-get install check
+  - make
 
 script:
-  make test
+  - make test
