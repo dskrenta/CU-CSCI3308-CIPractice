@@ -1,8 +1,7 @@
 language: c
 
-install:
-  - sudo apt-get install check
-  - make
+install: make dep
 
-script:
-  - make test
+sudo: required
+
+script: make && make test
