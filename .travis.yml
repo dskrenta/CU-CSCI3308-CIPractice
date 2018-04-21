@@ -1,6 +1,7 @@
 language: c
 
 install:
+  sudo apt-get install check
   make
 
 script:
